@@ -1,5 +1,5 @@
 
-# Primeiros codigos Python
+# Primeiros codigos Python.
 
 E apenas uma demonstracao do que eu aprendi nas primeiras semanas estudando Python
 
