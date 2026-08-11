@@ -12,4 +12,4 @@ E apenas uma demonstracao do que eu aprendi nas primeiras semanas estudando Pyth
 5. Listas, ex: compras, atividades, estudos. etc... 
 
 ## Autores 
-Francisco Gabriel C Costa
+Gabriel C Costa
