@@ -11,5 +11,5 @@ Entrar em contato (Funcinando via EmailJS)
 
 Icon favicon
 
-E minhas redes socias. Instagram, Linkedin e Github
+E minhas redes socias. Instagram, Linkedin e Github.
 
