@@ -13,3 +13,5 @@ Icon favicon
 
 E minhas redes socias. Instagram, Linkedin e Github.
 
+Gabriel C Costa - kurtgabriel1220@gmail.com
+
